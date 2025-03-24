@@ -10327,3 +10327,9 @@ header {
   font-size: 18px;
 }
 
+.arrow{
+  position: fixed;
+  z-index: 100000;
+  right: 45%;
+  bottom: 3%;
+}
